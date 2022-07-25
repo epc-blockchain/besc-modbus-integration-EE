@@ -8,7 +8,7 @@
     "start": "node ./task.js"
   },
   "author": "besc",
-  "license": "ISC",
+  "license": "LGPL-3.0",
   "dependencies": {
     "besc-ess-nodejs-client": "^1.1.7",
     "cron": "^1.7.1",
