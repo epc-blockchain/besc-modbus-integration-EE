@@ -58,6 +58,8 @@ f1.applyFieldsValues({h: 10, w: 10, d: 10});
 
 There is a program that need to be installed first which is the NodeJs. It is provided in the folder, named "node-v{version}.msi"
 
+Supported NodeJS version (v12.21.0). Please use `nvm` to change to this version. 
+
 There is also optional text editor, notepad++ available to install. It will make text editing much easier.
 
 ------
@@ -400,4 +402,4 @@ All output logs will be inserted into logs.log and all error log will be inserte
 
 ### Update SDK version
 
-This section is for updating of the BESC Client SDK, it is still work in progress.
+Just update the client SDK version in package.json
